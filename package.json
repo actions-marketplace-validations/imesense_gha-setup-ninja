@@ -31,16 +31,16 @@
     "node": ">=20 <21"
   },
   "dependencies": {
-    "@actions/core": "^2.0.2",
-    "@actions/github": "^7.0.0",
-    "@actions/io": "^2.0.0",
+    "@actions/core": "^3.0.0",
+    "@actions/github": "^9.0.0",
+    "@actions/io": "^3.0.2",
     "jszip": "^3.10.1",
     "request": "^2.88.2"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.4",
-    "eslint": "^9.39.2",
-    "prettier": "^3.8.0",
+    "eslint": "^10.0.0",
+    "prettier": "^3.8.1",
     "prettier-plugin-brace-style": "^0.9.0"
   }
 }
